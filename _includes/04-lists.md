@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Learn Front-end Development :tada:
+* Learn Python Scripting
+  * Automation
+  * Data Structures & Algorithms
