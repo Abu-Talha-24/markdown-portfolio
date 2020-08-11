@@ -1,7 +1,4 @@
-*This text will be italic*
-_This will also be italic_
+Some great man said:
+> Better Late than never.
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+**Github is so cool**
